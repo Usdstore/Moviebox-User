@@ -38,15 +38,22 @@
         "device_id": "86bd58233a12dfff",
         "username": "1",
         "password": "2",
-        "expirydate": "20-11-2026",
-        "Allowoffline": true
+        "expirydate": "20-11-2025",
+        "Allowoffline": false
     },
     {
         "device_id": "",
         "username": "asif",
-        "password": "nayan6",
-        "expirydate": "15-10-2026",
+        "password": "pagol",
+        "expirydate": "20-11-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "",
+        "username": "prosen"
+        "password": "magi baj"
+        "expirydate": "20-11-2025",
+        "Allowoffline": false
+    }
     
 ]
