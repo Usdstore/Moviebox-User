@@ -36,9 +36,17 @@
     },
     {
         "device_id": "86bd58233a12dfff",
-        "username": "ImrajKhan",
-        "password": "selfmade",
+        "username": "1",
+        "password": "2",
         "expirydate": "20-11-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "27aa5e796ec9a001",
+        "username": "nayan141",
+        "password": "nayan6",
+        "expirydate": "15-10-2026",
+        "Allowoffline": false
+    },
+    
 ]
