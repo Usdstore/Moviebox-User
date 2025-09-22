@@ -30,9 +30,9 @@
     {
         "device_id": "3aa496760e4ec025",
         "username": "loveyou",
-        "password": "love=fuck",
-        "expirydate": "15-12-2025",
-        "Allowoffline": false
+        "password": "0",
+        "expirydate": "15-12-2026",
+        "Allowoffline": true
     },
     {
         "device_id": "86bd58233a12dfff",
