@@ -16,9 +16,9 @@
     {
         "device_id": "27aa5e796ec9a001",
         "username": "nayan141",
-        "password": "nayan6",
+        "password": "6",
         "expirydate": "15-11-2026",
-        "Allowoffline": true
+        "Allowoffline": false 
     },
     {
         "device_id": "2dcac9ecc9613f15",
