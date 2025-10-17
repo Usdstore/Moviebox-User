@@ -69,4 +69,11 @@
         "expirydate": "29-12-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "4d697ad04eabf78a",
+        "username": "prosenjit2",
+        "password": "paglachoda",
+        "expirydate": "15-06-2026",
+        "Allowoffline": false
+    },
 ]
