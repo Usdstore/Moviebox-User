@@ -11,7 +11,7 @@
         "username": "nayan141",
         "password": "6",
         "expirydate": "15-06-2026",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "2dcac9ecc9613f15",
@@ -87,6 +87,13 @@
         "device_id": "841ce177f8f9559f",
         "username": "ranjit",
         "password": "1",
+        "expirydate": "15-06-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "d4c0455274cbae97",
+        "username": "BadBoy",
+        "password": "942",
         "expirydate": "15-06-2026",
         "Allowoffline": false
     },
