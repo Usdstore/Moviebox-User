@@ -111,4 +111,11 @@
         "expirydate": "15-06-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "c3be0430aaface1a",
+        "username": "M",
+        "password":  "Lvc4",
+        "expirydate": "15-06-2026",
+        "Allowoffline": false
+    },
 ]
