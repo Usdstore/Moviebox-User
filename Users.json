@@ -132,4 +132,11 @@
         "expirydate": "15-12-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "1a9917be96c2f1e2",
+        "username": "Bokachoda",
+        "password":  "Khanki",
+        "expirydate": "15-12-2026",
+        "Allowoffline": false
+    },
 ]
