@@ -139,4 +139,11 @@
         "expirydate": "15-12-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "2ce69b425c42fb6e",
+        "username": "Pagla",
+        "password": "Modon",
+        "expirydate": "15-12-2026",
+        "Allowoffline": false
+    },
 ]
