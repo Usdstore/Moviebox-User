@@ -151,6 +151,13 @@
         "username": "0",
         "password": "99",
         "expirydate": "15-12-2026",
-        "Allowoffline": true
+        "Allowoffline": false
+    },
+    {
+        "device_id": "42bafc32aceb0a1b",
+        "username": "Prosenjit",
+        "password": "99",
+        "expirydate": "15-06-2026",
+        "Allowoffline":  false 
     }
 ]
