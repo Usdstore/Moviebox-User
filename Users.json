@@ -49,11 +49,11 @@
         "Allowoffline": false
     },
     {
-        "device_id": "a265450085c9ddad",
-        "username": "234",
-        "password": "567",
-        "expirydate": "15-01-2026",
-        "Allowoffline": false
+        "device_id": "621049a74ffded92",
+        "username": "0",
+        "password": "0",
+        "expirydate": "15-01-2027",
+        "Allowoffline": true
     },
     {
         "device_id": "ce97cb5dc0d1921a",
