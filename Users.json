@@ -16,9 +16,9 @@
     {
         "device_id": "2dcac9ecc9613f15",
         "username": "raja123",
-        "password": "freands1",
-        "expirydate": "15-06-2026",
-        "Allowoffline": false
+        "password": "1",
+        "expirydate": "15-06-2027",
+        "Allowoffline": true 
     },
     {
         "device_id": "3aa496760e4ec025",
