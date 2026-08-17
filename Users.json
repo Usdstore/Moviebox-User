@@ -157,14 +157,14 @@
         "device_id": "42bafc32aceb0a1b",
         "username": "Prosenjit",
         "password": "99",
-        "expirydate": "15-08-2026",
+        "expirydate": "25-08-2026",
         "Allowoffline":  false 
     },
     {
         "device_id": "9b36a550e6819e0f",
         "username": "0",
         "password": "10",
-        "expirydate": "15-07-2029",
+        "expirydate": "25-07-2029",
         "Allowoffline":  true
     },
     {
